@@ -1,3 +1,3 @@
 # ohtu-viikko1
 
-Ohjelmistotuotanto syksy 2017 harjoituksia, viikko 1.
+Ohjelmistotuotanto syksy 2017 harjoituksia, viikko 1. Sisältää harjoitusprojekti ohtuvaraston.
