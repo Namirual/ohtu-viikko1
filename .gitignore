@@ -9,5 +9,8 @@
 
 # gradlen cache
 /.nb-gradle/
-/.gradle/
+/**/.gradle/
 /RiippuvuuksienInjektointi1/.nb-gradle/
+/RiippuvuuksienInjektointi1/build/
+/NhlStatistics1/build/
+/NhlStatistics1/.nb-gradle/
