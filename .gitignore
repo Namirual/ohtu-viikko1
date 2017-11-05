@@ -6,3 +6,6 @@
 
 # hakemisto jonka nimi on build ignoroidaan
 /build/
+
+# gradlen cache
+/.nb-gradle/
